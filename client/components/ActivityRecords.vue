@@ -6,7 +6,7 @@
 <style>
 .activity-records {
   width: 100%;
-  height: 50px;
+  height: 600px;
   padding: 10px;
   margin-bottom: 10px;
   background-color: green;
